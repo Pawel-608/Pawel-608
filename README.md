@@ -4,6 +4,7 @@
 - 📫 How to reach me ...
 
 https://www.linkedin.com/in/pawe%C5%82-rainer-371127228/
+https://app.pluralsight.com/profile/pawel-rainer
 
 <!---
 Pawel-608/Pawel-608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
