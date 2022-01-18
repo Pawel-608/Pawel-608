@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawel-608
 - 👀 I’m interested in IT, fencing, guitar
-- 🌱 I’m currently learning Java, Spring, React
+- 🌱 I’m currently learning Java, Spring
 - 📫 How to reach me ...
 
 https://www.linkedin.com/in/pawe%C5%82-rainer-371127228/ </br>
